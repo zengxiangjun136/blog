@@ -1,6 +1,13 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+
+  vite: {
+    server: {
+      allowedHosts: true
+    }
+  },
+
   title: "finally",
   description: "为您提供最好的毕业指导方式",
   lastUpdated: true,
