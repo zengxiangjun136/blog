@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "finally",
   description: "为您提供最好的毕业指导方式",
-  lastUpdated:true,
+  lastUpdated: true,
   themeConfig: {
 
     // 网站logo
@@ -70,6 +70,11 @@ export default defineConfig({
     darkModeSwitchLabel: '主题',
     lightModeSwitchTitle: '切换到浅色模式',
     darkModeSwitchTitle: '切换到深色模式',
-    skipToContentLabel: '跳转到内容'
+    skipToContentLabel: '跳转到内容',
+
+    footer: {
+      message: '基于 MIT 许可发布',
+      copyright: `版权所有 © 2019-${new Date().getFullYear()} `
+    },
   }
 })

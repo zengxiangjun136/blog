@@ -18,6 +18,7 @@ features:
   - title: 个性化指导
     icon: 🎯
     details: 根据学生的具体需求提供定制化的建议和支持，如分配个人导师，设置个性化的学习路径等
+    link: /指导记录参考/指导记录1.md
 
   - title: 进度跟踪
     icon: 📅
@@ -26,6 +27,7 @@ features:
   - title: 资源丰富性
     icon: 📚
     details: 提供大量的学术资源、研究方法指南、案例分析等，以帮助学生了解如何进行研究和撰写论文
+    link: 往期毕设参考/公寓租赁系统.md
 
   - title: 隐私保护
     icon: 🔒
