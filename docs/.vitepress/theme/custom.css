@@ -1,0 +1,8 @@
+:root {
+  /* 修改首页name样式 */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+   --vp-c-brand-1: #646cff;
+  --vp-c-brand-2: #747bff;
+  --vp-c-indigo-3: #747bff;
+}
